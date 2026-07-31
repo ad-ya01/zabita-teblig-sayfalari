@@ -1,13 +1,14 @@
 {
-  "son_surum": "1.1.0",
+  "son_surum": "1.0.1",
   "son_build": 2,
   "minimum_surum": "1.0.0",
-  "apk_url": "https://drive.google.com/file/d/1P6GJgYevvZF7wgtoo2CUQcN5NM9DLwV1/view?usp=drive_link",
+  "apk_url": "https://drive.google.com/uc?export=download&id=SENIN_DRIVE_DOSYA_ID",
   "degisiklikler": [
-    "• PIN sistemi eklendi",
+    "• Parola sistemi 4 haneli PIN olarak yenilendi",
     "• Tebliğ indirme limiti 2'ye düşürüldü",
+    "• Güncelleme kontrol sistemi eklendi",
     "• Performans iyileştirmeleri"
   ],
   "zorunlu": false,
-  "tarih": "2025-06-20"
+  "tarih": "20.06.2025"
 }
