@@ -1,13 +1,12 @@
 {
-  "son_surum": "1.0.1",
-  "son_build": 2,
+  "son_surum": "1.0.2",
+  "son_build": 3,
   "minimum_surum": "1.0.0",
-  "apk_url": "https://drive.google.com/uc?export=download&id=........",
+  "apk_url": "https://drive.google.com/uc?export=download&id=1u2PY3F-3AdSwOY1ZIaWxHXfTdv4ZZoDs",
   "degisiklikler": [
-    "• Deneme Amaçlı Yapılmıştır.",
-    "• Herhangi bir değişiklik yok."
+    "• Cihaz bazlı numaralandırma (C7F3-2025-0001) + UX iyileştirmeleri + Güvenlik paketi.",
     
   ],
   "zorunlu": false,
-  "tarih": "01.08.2026"
+  "tarih": "11.08.2026"
 }
