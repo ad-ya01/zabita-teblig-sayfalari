@@ -3,10 +3,12 @@
   "son_build": 3,
   "minimum_surum": "1.0.0",
   "apk_url": "https://drive.google.com/uc?export=download&id=1u2PY3F-3AdSwOY1ZIaWxHXfTdv4ZZoDs",
+  "zorunlu": false,
   "degisiklikler": [
-    "Cihaz bazlı numaralandırma (C7F3-2025-0001) + UX iyileştirmeleri + Güvenlik paketi.",
+    "• Ilk stabil surum",
+    "• Dijital teblig akisi aktif",
+    "• PDF uretimi iyilestirildi"
     
   ],
-  "zorunlu": false,
   "tarih": "11.08.2026"
 }
