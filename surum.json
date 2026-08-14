@@ -1,11 +1,14 @@
 {
-  "son_surum": "1.0.3",
-  "son_build": 4,
+  "son_surum": "1.0.4",
+  "son_build": 5,
   "minimum_surum": "1.0.0",
   "apk_url": "https://drive.google.com/uc?export=download&id=1u2PY3F-3AdSwOY1ZIaWxHXfTdv4ZZoDs",
   "zorunlu": false,
   "degisiklikler": [
-    "Adresler  eklendi"    
+    "Ayarlar ekranına Ekip Personelleri yönetimi eklendi",
+    "Form ekranlarındaki personel yönlendirme metinleri güncellendi",
+    "Mevzuat detay ekranında aktif/pasif durum gösterimi iyileştirildi",
+    "Ekip personeli ekranına arama ve personel sayısı bilgisi eklendi"
   ],
-  "tarih": "13.08.2026"
+  "tarih": "14.08.2026"
 }
